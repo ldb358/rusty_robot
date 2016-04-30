@@ -1,0 +1,6 @@
+[package]
+name = "rusty_robot"
+version = "0.1.0"
+authors = ["Lane <ldb358@gmail.com>"]
+
+[dependencies]
