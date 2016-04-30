@@ -1,6 +1,3 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-    }
-}
+pub mod subscribers;
+pub mod publishers;
+pub mod master;
